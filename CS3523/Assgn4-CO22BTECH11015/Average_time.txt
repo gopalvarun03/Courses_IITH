@@ -1,0 +1,40 @@
+Average Time for Reader 0 to enter CS(msec): 1.562300
+Average Time for Reader 1 to enter CS(msec): 1.422591
+Average Time for Reader 2 to enter CS(msec): 1.642077
+Average Time for Reader 3 to enter CS(msec): 1.484355
+Average Time for Reader 4 to enter CS(msec): 1.561100
+Average Time for Reader 5 to enter CS(msec): 1.421879
+Average Time for Reader 6 to enter CS(msec): 1.488111
+Average Time for Reader 7 to enter CS(msec): 1.433372
+Average Time for Reader 8 to enter CS(msec): 1.368470
+Average Time for Reader 9 to enter CS(msec): 1.488672
+Average Time for Writer 0 to enter CS(msec): 0.996685
+Average Time for Writer 1 to enter CS(msec): 1.172103
+Average Time for Writer 2 to enter CS(msec): 1.098379
+Average Time for Writer 3 to enter CS(msec): 1.060238
+Average Time for Writer 4 to enter CS(msec): 1.030476
+Average Time for Writer 5 to enter CS(msec): 0.955774
+Average Time for Writer 6 to enter CS(msec): 1.080009
+Average Time for Writer 7 to enter CS(msec): 1.102482
+Average Time for Writer 8 to enter CS(msec): 1.062721
+Average Time for Writer 9 to enter CS(msec): 0.977818
+Worst Case Time for Reader 0 to enter CS(msec): 13.246267
+Worst Case Time for Reader 1 to enter CS(msec): 13.144855
+Worst Case Time for Reader 2 to enter CS(msec): 12.811157
+Worst Case Time for Reader 3 to enter CS(msec): 13.982782
+Worst Case Time for Reader 4 to enter CS(msec): 13.186544
+Worst Case Time for Reader 5 to enter CS(msec): 13.123472
+Worst Case Time for Reader 6 to enter CS(msec): 13.820256
+Worst Case Time for Reader 7 to enter CS(msec): 13.013054
+Worst Case Time for Reader 8 to enter CS(msec): 13.226327
+Worst Case Time for Reader 9 to enter CS(msec): 13.211230
+Worst Case Time for Writer 0 to enter CS(msec): 1.326891
+Worst Case Time for Writer 1 to enter CS(msec): 1.789906
+Worst Case Time for Writer 2 to enter CS(msec): 1.474142
+Worst Case Time for Writer 3 to enter CS(msec): 1.446019
+Worst Case Time for Writer 4 to enter CS(msec): 1.432689
+Worst Case Time for Writer 5 to enter CS(msec): 1.473435
+Worst Case Time for Writer 6 to enter CS(msec): 1.454427
+Worst Case Time for Writer 7 to enter CS(msec): 1.463982
+Worst Case Time for Writer 8 to enter CS(msec): 1.464829
+Worst Case Time for Writer 9 to enter CS(msec): 1.446951
